@@ -1,0 +1,20 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "My (rocketspacer) personal theme for JSON Resume",
+  "author": "Snuggle <^-^@Snugg.ie>",
+  "license": "MIT",
+  "homepage": "https://gitlab.com/Snuggle/cv",
+  "bugs": "https://gitlab.com/Snuggle/cv/issues",
+  "repository": "gitlab:Snuggle/cv",
+  "engines": {
+    "node": ">= 12.0.0"
+  },
+  "scripts": {
+  	"build": "resume export public/index.html --format html --theme rocketspacer"
+  },
+  "dependencies": {
+    "resume-cli": "1.2.7",
+    "jsonresume-theme-rocketspacer": "1.1.0"
+  }
+}
