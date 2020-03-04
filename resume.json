@@ -1,0 +1,111 @@
+{
+  "meta": { "theme": "elegant" },
+  "basics": {
+    "name": "Evie Snuggle",
+    "label": "Software Developer",
+    "summary": "I am an incredibly passionate enthusiast about everything related to tech, I live tech, it's part of my daily life! I get genuinely so excited about both producing, experimenting with and testing out new technologies, it's thrilling to see new ideas shape the world and people's lives in a completely new way, for the better.I would call myself an avid learner, with a burning desire to understand how things work from every level of its implementation. I spend hours each day fully-immersed in tech including thousands of small personal projects from making my own cloud-storage server with AWS S3-style Object Storage, spontaneous and inventive ideas such as hosting a Steam library over iSCSI using ZFS w/deduplication over a small peer-to-peer Thunderbolt 3 network, to just living and breathing the stuff every day. I'm here for the new experiences, to learn and to grow as a person and to be able to work towards the best I can do, with code and projects that I can be proud of.",
+    "website": "https://snugg.ie",
+    "picture": "https://github.com/Snuggle.png",
+    "email": "jobs@snugg.ie",
+    "location": {
+      "city": "Birmingham",
+      "countryCode": "UK"
+    },
+    "profiles": [
+      {
+        "username": "SnuggIys",
+        "url": "https://twitter.com/intent/user?user_id=721391181033304064",
+        "network": "Twitter"
+      },
+      {
+        "url": "https://github.com/Snuggle",
+        "username": "Snuggle",
+        "network": "GitHub"
+      },
+      {
+        "url": "https://gitlab.com/Snuggle",
+        "username": "Snuggle",
+        "network": "GitLab"
+      },
+      {
+        "url": "https://linkedin.com/in/Snuggle",
+        "username": "Snuggle",
+        "network": "LinkedIn"
+      },
+      {
+        "url": "https://t.me/Snuggie",
+        "username": "SnuggIe",
+        "network": "Telegram"
+      }
+    ]
+  },
+  "education": [
+    {
+      "startDate": "2018-09-17",
+      "area": "Computer Science",
+      "studyType": "BSc. (Hons.)",
+      "institution": "Birmingham City University"
+    },
+    {
+      "endDate": "2016-07-01",
+      "startDate": "2011-09-01",
+      "area": "7 GCSEs",
+      "studyType": "at a grade 'B' or above",
+      "institution": "Light Hall Secondary School",
+      "gpa": "Achieved Grade 'A' GCSEs in Mathematics and Information Technology and Achieved Grade 'B' GCSEs in English, Computer Science, Biology, Chemistry & Physics."
+    }
+  ],
+  "references": [],
+  "skills": [
+    {
+      "keywords": [
+        "Excellent and Enthusiastic Communication",
+        "Joyful Attitude",
+        "Experience Working with all Skill-Levels",
+        "Experience with Teaching"
+      ],
+      "level": "Senior",
+      "name": "Soft-Skills"
+    },
+    {
+      "keywords": ["Nginx", "Django", "Gunicorn", "REST APIs", "PHP", "Full-stack Web Applications"],
+      "level": "Senior",
+      "name": "Web Technologies"
+    },
+    {
+      "keywords": ["Git", "GitLab CI", "Ansible", "Sphinx", "ReadTheDocs"],
+      "level": "Senior",
+      "name": "Automation"
+    },
+    {
+      "keywords": ["Python", "Java", "Rust", "Bash", "Fish", "HTML/CSS", "LaTeX"],
+      "level": "Senior",
+      "name": "Programming"
+    },
+    {
+      "keywords": ["Deploying Web Servers", "systemd Services", "Containerization", "Years of Experience Using Linux Daily"],
+      "level": "Senior",
+      "name": "Linux"
+    }
+  ],
+  "awards": [],
+  "work": [
+    {
+      "summary": "As a part-time role alongside my studies, I teach 1st Year students and aid their learning by providing implementations of code, demonstrating them, answering student's questions, teach programming concepts by-example and running through them piece-by-piece in sessions throughout seminars. I was offered this role after achieving a 97% grade in my own programming module and demonstrating the ability to teach.",
+      "website": "https://bcu.ac.uk",
+      "company": "Birmingham City University",
+      "location": "Birmingham",
+      "position": "Visiting Lecturer, Student Technical Demonstrator",
+      "startDate": "2019-10-01",
+      "highlights": []
+    },
+    {
+      "summary": "During these two weeks of arranged work experience with Bryan's Data Programming, I learnt how to repair complicated devices ranging from repairing the display of Apple iPads to taking apart to diagnosing faulty computers using proper troubleshooting methods and the process of elimination.",
+      "website": "http://www.bryansdataprogramming.com/index.php",
+      "company": "Bryan's Data Programming",
+      "position": "Repair Technician",
+      "startDate": "2015-06-15",
+      "endDate": "2015-06-29"
+    }
+  ]
+}
